@@ -1,0 +1,6 @@
+s\b
+es\b
+ing\b
+ed\b
+en\b
+ne\b
